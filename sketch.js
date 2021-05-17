@@ -110,7 +110,7 @@ function draw() {
     //add gravity
     trex.velocityX = 5;
     camera.position.x = trex.x
-    trex.velocityY = trex.velocityY + 0.8
+    //trex.velocityY = trex.velocityY + 0.8
   
     //spawn the clouds
     spawnClouds();
